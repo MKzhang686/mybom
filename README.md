@@ -1,2 +1,0 @@
-# mybom
-youxi
